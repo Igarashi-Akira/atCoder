@@ -1,2 +1,2 @@
 # atCoder
-for at-coder
+This is a repo for (AtCoder)[https://atcoder.jp/].
